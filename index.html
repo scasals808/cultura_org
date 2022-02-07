@@ -11,22 +11,22 @@
 <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 <a-scene embedded arjs>
 
-<!--    <a-asset-item-->
-<!--            id="shark"-->
-<!--            src="https://github.com/scasals808/cultura_org/blob/main/assets/models/shark/source/Q11774-1all-11.gltf">-->
-<!--    </a-asset-item>-->
+    <!--    <a-asset-item-->
+    <!--            id="shark"-->
+    <!--            src="https://github.com/scasals808/cultura_org/blob/main/assets/models/shark/source/Q11774-1all-11.gltf">-->
+    <!--    </a-asset-item>-->
 
     </a-assets>
 
     <a-marker-camera
             preset='custom'
             type='pattern'
-            src='https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/markers/patter.patt'>
-    <a-entity
-            position="0 0 0"
-            scale="0.2 0.2 0.2"
-            gltf-model="https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/models/shark/source/Q11774-1all-11.gltf"
-    ></a-entity>
+            url='https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/markers/patter.patt'>
+        <a-entity
+                position="0 0 0"
+                scale="0.2 0.2 0.2"
+                gltf-model="https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/models/shark/source/Q11774-1all-11.gltf"
+        ></a-entity>
     </a-marker-camera>
     <a-entity camera></a-entity>
 </a-scene>
