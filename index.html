@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>AR in Web</title>
 </head>
@@ -18,16 +18,16 @@
 
     </a-assets>
 
-    <a-marker-camera
+    <a-marker
             preset='custom'
             type='pattern'
-            url='https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/markers/patter.patt'>
+            url='assets/markers/patter.patt'>
         <a-entity
                 position="0 0 0"
                 scale="0.2 0.2 0.2"
-                gltf-model="https://raw.githubusercontent.com/scasals808/cultura_org/main/assets/models/shark/source/Q11774-1all-11.gltf"
+                gltf-model="assets/models/shark/source/Q11774-1all-11.gltf"
         ></a-entity>
-    </a-marker-camera>
+    </a-marker>
     <a-entity camera></a-entity>
 </a-scene>
 </body>
