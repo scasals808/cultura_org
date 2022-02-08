@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4f628441-3ac6-47b1-9728-d9a994c5315b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/models/shark/source/Q11774-1all-11.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Image_0_0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex0_1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex1_2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex2_3.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644087801647</updated>
       <workItem from="1644087803163" duration="2739000" />
-      <workItem from="1644236553486" duration="2477000" />
+      <workItem from="1644236553486" duration="3686000" />
     </task>
     <servers />
   </component>
