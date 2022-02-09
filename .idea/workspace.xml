@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f628441-3ac6-47b1-9728-d9a994c5315b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/photo_2022-02-09_07-53-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/markers/punk.patt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/models/shark/source/Q11774-1all-11.gltf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Image_0_0.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex0_1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex1_2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/models/shark/textures/Q11774-1all-11_tex2_3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/markers/patter.patt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/markers/axe.patt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/markers" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/models" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +47,9 @@
       <option name="presentableId" value="Default" />
       <updated>1644087801647</updated>
       <workItem from="1644087803163" duration="2739000" />
-      <workItem from="1644236553486" duration="3686000" />
+      <workItem from="1644236553486" duration="4290000" />
+      <workItem from="1644395841278" duration="8000" />
+      <workItem from="1644417765860" duration="2760000" />
     </task>
     <servers />
   </component>
